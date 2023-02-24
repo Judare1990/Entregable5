@@ -190,6 +190,7 @@ padding: 2rem;
 }
 .move_title{
     font-size: 45px;
+    margin-top: 3rem;
 }
 .movements{
     display: grid;
