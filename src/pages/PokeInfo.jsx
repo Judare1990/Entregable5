@@ -1,7 +1,7 @@
 import axios from 'axios'
 import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
-import Header from '../components/pokedex/Shared/header'
+import Header from '../components/pokedex/Shared/Header'
 import './styles/pokeInfo.css'
 import './styles/loading.css'
 import './styles/returnGoTopButton.css'
