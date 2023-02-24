@@ -58,7 +58,7 @@ const PokeInfo = () => {
         <Header />
         {
           isLoading ? <div className='container_gif'><img className='gif' src="/images/pokeball.gif" alt="" /></div>
-            : <div>
+            : <div className='poke_info-container'>
               <header className={`info_poke img-${poke?.types[0].type.name}`}>
                 <img className='poke_info-img' src={poke?.sprites.other['official-artwork'].front_default}
                   alt='' />
