@@ -223,7 +223,7 @@ padding: 2rem;
 }
 .not_found-img{
     height: 100vh;
-    background-image: url('/public/images/pikachu-sad.jpg');
+    background-image: url('/images/pikachu-sad.jpg');
     background-size: cover;
     background-position: center;
     padding: 2em;
